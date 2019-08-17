@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training_set</folder>
+	<filename>447.jpg</filename>
+	<path>C:\Users\Michael Mak\Downloads\Dataset\training_set\447.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>32</ymin>
+			<xmax>138</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -2,4 +2,4 @@
 Object Detection for Red Traffic Cone
 
 # Implementation
-LeNet CNN
+MobileNet SSD
